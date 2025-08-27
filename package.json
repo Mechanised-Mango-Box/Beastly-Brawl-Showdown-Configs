@@ -8,11 +8,10 @@
   },
   "main": "tsconfig.json",
   "exports": {
-    "./tsconfig": "./tsconfig.json",
+    "./tsconfig": "./tsconfig.base.json",
     "./eslint": "./eslint.config.js"
   },
   "peerDependencies": {
-    "eslint": "^9.34.0",
     "typescript": "^5.9.2"
   }
 }

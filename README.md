@@ -11,7 +11,7 @@ Create the following files at the project root.
 }
 ```
 
-### EsLint
+### EsLint (Under Construction)
 > `eslint.config.js`
 
 ```js
