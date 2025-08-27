@@ -1,15 +1,14 @@
 {
   "name": "@beastly-brawl-showdown/configs",
   "license": "MIT",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "https://registry.npmjs.org"
   },
   "main": "tsconfig.json",
   "exports": {
-    "./tsconfig": "./tsconfig.base.json",
-    "./eslint": "./eslint.config.js"
+    "./tsconfig": "./tsconfig.base.json"
   },
   "peerDependencies": {
     "typescript": "^5.9.2"

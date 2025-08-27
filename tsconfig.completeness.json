@@ -1,6 +1,0 @@
-{
-  // See: https://www.typescriptlang.org/tsconfig/#Completeness_6257
-  /* Completeness */
-  // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
-  "skipLibCheck": false, /* Skip type checking all .d.ts files. */
-}
