@@ -1,14 +1,13 @@
 {
   "name": "@beastly-brawl-showdown/configs",
   "license": "MIT",
-  "version": "0.1.3",
+  "version": "0.3.0",
   "repository": {
     "type": "git",
     "url": "https://registry.npmjs.org"
   },
-  "main": "tsconfig.json",
   "exports": {
-    "./tsconfig": "./tsconfig.base.json"
+    "./typecheck": "./tsconfig.typecheck.json"
   },
   "peerDependencies": {
     "typescript": "^5.9.2"
